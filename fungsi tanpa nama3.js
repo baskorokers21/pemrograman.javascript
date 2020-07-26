@@ -1,0 +1,1 @@
+let tambah=(a,b)=>a+b;

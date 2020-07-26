@@ -1,0 +1,1 @@
+let hasil=tambah(10,8);
